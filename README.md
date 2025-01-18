@@ -20,8 +20,8 @@ Ce projet est une application client-serveur permettant de collecter des donnée
 1. **Clonez ce dépôt :**
 
    ```bash
-   git clone https://github.com/hamzaaa1/Collecteur-des-donn-es-m-t-orologiques.git
-   cd Collecteur-des-donn-es-m-t-orologiques
+   git clone https://github.com/hamzaaa1/Collecteur-des-donnees-meteorologiques
+   cd Collecteur-des-donnees-meteorologiques
    ```
 
 2. **Téléchargez la dépendance JSON-java :**
